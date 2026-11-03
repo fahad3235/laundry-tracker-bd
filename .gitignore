@@ -1,0 +1,4 @@
+# Laundry Tracker BD — nothing generated locally; keep the tree clean
+.DS_Store
+*.log
+node_modules/
